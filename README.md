@@ -52,23 +52,41 @@ Libraries required for the project are
 This library is functional in enableing the interfacing of the I2C board on the 16 X 2 LCD display.
 
 The materials required for this project are as follows.:
+
   • 1 Arduino Uno R3
+  
   • 2 DC Motor pumps
+  
   • 9 10k ohms resistors
+  
   • 2 550 ohms resistors
+  
   • 1 Push button
-  • 1 Temperature Sensor LM35
+  
+  • 1 Temperature Sensor LM35 
+  
   • 1 Shift Register 74HC595
+  
   • 1 250 k ohms potentiometer
+  
   • 1 16 X 2 LCD Display
+  
   • 4 Green LEDs
+  
   • 5 Red LEDs
+  
   • 2 NPN BJT transistors
+  
   • 1 PIR sensor
+  
   • 1 Water level sensor
+  
   • 1 Capacitive Soil Sensor
+  
   • 1 Piezo
+  
   • 2 Diodes
+  
   • Jumper wires
 
 # Installing Arduino Software
@@ -76,5 +94,21 @@ The materials required for this project are as follows.:
 1. You can download the IDE from here : (https://www.arduino.cc/en/main/software).
 
 2. After you install the IDE click here to learn more about it : (https://www.arduino.cc/en/Guide/HomePage).
+
+# Usage
+
+1. Connect the various components of the system, in the manner as pictorially represented in the sketch above. Note,have 2 water resources, a smaller buffer container wherein you should insert the soil watering motor pump (connected with the green wire) and the water sensor as well. Another larger container or an external tank is to be used as the secondary water source, wherein you should place the tank refilling motorpump (connected with the purple wire). The potted plant is to be placed in close vicinity of the setup box, with the soil moisture sensor and the soil watering pipe fitted in the soil.
+
+2. Connect the automated plant watering system to an AC power outlet and verify if the integrated 16 X 2 LCD display has commenced showing the temperature values and the soil moisture values subsequently.
+
+3. Now, at first, if the soil moisture sensor is not inserted into the soil, or if the soil surrounding it is dry, the same should reflect on the LCD screen. Check if the LCD display is showing a value lesser than the programmed dryness value, 270, as the current Moisture level. In such a scenario, verify if the soil watering motor pump has started pumping water.
+
+4. Check the buffer tank water levels and verify if these levels correspond with the LED display array’s lights. If the tank is empty, check to see whether the tank refilling pump has started pumping water from the secondary water resource.
+
+5. Now, check to see whether the Soil water pump varies its speed upon turning the potentiometer both clock wise and anticlockwise. Furthermore, Upon the soil water pump completing its automated watering cycle, listen for a melody from the integrated speaker.
+
+6. Check if the manual overriding option is functioning by clicking the blue push button. Upon clicking it, the pump should pump water for 5 seconds and then stop. Here, however, no melody would be played, as, you are manually overriding the system.
+
+7. Check to see if the motion sensor, is functioning as intended, by placing it near the supposed light source, from which the plant would carry out its photosynthesis routine. Place an object in front of the PIR sensor and verify if the red LED starts glowing, indicating the presence of an obstacle.
 
 
