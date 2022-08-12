@@ -32,5 +32,8 @@ On a precautionary note, the LCD 16 X 2 I2C display must be handled with utmost 
 
 ![d11](https://user-images.githubusercontent.com/111105406/184286683-7591d19e-a226-4d63-9394-edc2a6301298.png)
 
+<img width="424" alt="ds1" src="https://user-images.githubusercontent.com/111105406/184288563-ff87433b-e326-4292-aeb8-ec15d8da5280.png">
+
+<img width="425" alt="ds2" src="https://user-images.githubusercontent.com/111105406/184288573-83e4e929-c74b-43ad-969d-cf221525ee90.png">
 
 
