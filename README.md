@@ -36,4 +36,11 @@ On a precautionary note, the LCD 16 X 2 I2C display must be handled with utmost 
 
 <img width="425" alt="ds2" src="https://user-images.githubusercontent.com/111105406/184288573-83e4e929-c74b-43ad-969d-cf221525ee90.png">
 
+# Repository Contents
 
+Here is a map of all the top-level contents listed in the repository:
+
+/Images - Here is where the image files for this readme are.
+/Modules - Here is the place where the code is divided into segments, for better understanding.
+/src - Here is where you can see all the coding stuff (.ino).
+/README.md - Here is the file you're reading now! 
