@@ -18,9 +18,17 @@ Here is a pictorial depiction of the manner in which the circuitry must be set u
 
 ## Block Diagram - Inputs & Outputs
 
-Following is a block diagram indicative of the various modules integrated into the circuitry and the manner in which the flow of information takes place.
+Following is a block diagram indicative of the various modules integrated into the circuitry and the manner in which the flow of information takes place. With the help of this the operator can comprehend the connection of the components.
 
 <img width="614" alt="bdfnl" src="https://user-images.githubusercontent.com/111105406/184285815-6a056f92-52e3-4f10-b9ca-7b3398aa7d59.png">
 
 ## Circuit View
+
+In order to further understand the circuit assembly, here's a circuit view sketched in TinkerCAD, that details the connections of all the vital components in a neat and comprehensive manner. Following this circuit design, one could build the same circuitry, and even enhance the same, for better results. Note, the basic circuitry must be built in accordance with the design as shown below. Upon successfully building and coding the basic design, the designer may then feel free to modify the circuit as per their preferences. 
+
+Now, the entire circuitry is assembled on a breadboard with the use of jumper wires to establish the various connections as seen in the diagrams below. using a breadboard is always advisable, especially if the components you are working with are volatile, or in the event that you might want to develop yet another prototype before deploying the final circuit build.
+
+![d11](https://user-images.githubusercontent.com/111105406/184286683-7591d19e-a226-4d63-9394-edc2a6301298.png)
+
+
 
