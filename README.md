@@ -41,9 +41,8 @@ On a precautionary note, the LCD 16 X 2 I2C display must be handled with utmost 
 Here is a map of all the top-level contents listed in the repository:
 
 1. /Images - Here is where the image files for this readme are.
-2. /Modules - Here is the place where the code is divided into segments, for better understanding.
-3. /src - Here is where you can see all the coding stuff (.ino).
-4. /README.md - Here is the file you're reading now! 
+2. /src - Here is where you can see all the coding stuff (.ino).
+3. /README.md - Here is the file you're reading now! 
 
 # Requirements and Materials
 
