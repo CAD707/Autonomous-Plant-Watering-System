@@ -40,7 +40,41 @@ On a precautionary note, the LCD 16 X 2 I2C display must be handled with utmost 
 
 Here is a map of all the top-level contents listed in the repository:
 
-/Images - Here is where the image files for this readme are.
-/Modules - Here is the place where the code is divided into segments, for better understanding.
-/src - Here is where you can see all the coding stuff (.ino).
-/README.md - Here is the file you're reading now! 
+1. /Images - Here is where the image files for this readme are.
+2. /Modules - Here is the place where the code is divided into segments, for better understanding.
+3. /src - Here is where you can see all the coding stuff (.ino).
+4. /README.md - Here is the file you're reading now! 
+
+# Requirements and Materials
+
+Libraries required for the project are
+1. <Adafruit_LiquidCrystal.h> LIBRARY : (https://github.com/adafruit/Adafruit_LiquidCrystal).
+This library is functional in enableing the interfacing of the I2C board on the 16 X 2 LCD display.
+
+The materials required for this project are as follows.:
+  • 1 Arduino Uno R3
+  • 2 DC Motor pumps
+  • 9 10k ohms resistors
+  • 2 550 ohms resistors
+  • 1 Push button
+  • 1 Temperature Sensor LM35
+  • 1 Shift Register 74HC595
+  • 1 250 k ohms potentiometer
+  • 1 16 X 2 LCD Display
+  • 4 Green LEDs
+  • 5 Red LEDs
+  • 2 NPN BJT transistors
+  • 1 PIR sensor
+  • 1 Water level sensor
+  • 1 Capacitive Soil Sensor
+  • 1 Piezo
+  • 2 Diodes
+  • Jumper wires
+
+# Installing Arduino Software
+
+1. You can download the IDE from here : (https://www.arduino.cc/en/main/software).
+
+2. After you install the IDE click here to learn more about it : (https://www.arduino.cc/en/Guide/HomePage).
+
+
