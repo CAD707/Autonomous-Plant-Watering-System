@@ -28,6 +28,8 @@ In order to further understand the circuit assembly, here's a circuit view sketc
 
 Now, the entire circuitry is assembled on a breadboard with the use of jumper wires to establish the various connections as seen in the diagrams below. using a breadboard is always advisable, especially if the components you are working with are volatile, or in the event that you might want to develop yet another prototype before deploying the final circuit build.
 
+On a precautionary note, the LCD 16 X 2 I2C display must be handled with utmost care, especially the I2C integrated board, since these tend to severely malfunction on incurring the slightest of damages.
+
 ![d11](https://user-images.githubusercontent.com/111105406/184286683-7591d19e-a226-4d63-9394-edc2a6301298.png)
 
 
