@@ -110,8 +110,10 @@ The materials required for this project are as follows.:
 
 7. Check to see if the motion sensor, is functioning as intended, by placing it near the supposed light source, from which the plant would carry out its photosynthesis routine. Place an object in front of the PIR sensor and verify if the red LED starts glowing, indicating the presence of an obstacle.
 
-#Contributors
-Clayton Dsouza - I completed this project by myself. I am the sole contributor to the construction and the working of this project. Contact me at @ claytonboss80@gmail.com
+# Contributors
+### Clayton Dsouza 
+- I completed this project by myself. I am the sole contributor to the construction and the working of this project. Contact me at @ claytonboss80@gmail.com
 
-#Credits
-Trevor Michael Tomesh: consultation on directory structure
+# Credits
+### Trevor Michael Tomesh (Course Instructor)
+- Advice and technical guidance with regards to critical decisions in the construction of the project.
